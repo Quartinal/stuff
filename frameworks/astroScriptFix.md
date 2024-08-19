@@ -1,0 +1,1 @@
+### Don't use regular Astro component HTML interpolation (most of the time), instead use scripts to interpolate variables into a selector.

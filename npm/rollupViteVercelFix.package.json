@@ -1,0 +1,7 @@
+{
+    "overrides": {
+        "vite": {
+            "rollup": "npm:@rollup/wasm-node@4.9.5"
+        }
+    }
+}
